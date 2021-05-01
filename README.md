@@ -1,5 +1,6 @@
 ## 259947_MiniProject
 # Py Financial Calculator
+![Banner](https://github.com/waghtejashri/259947_MiniProject/blob/main/fi_calci.png)
 
 This calculator help to do below mention Calculation : 
 
