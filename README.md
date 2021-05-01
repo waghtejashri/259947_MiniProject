@@ -23,7 +23,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test C
 | No |Feature  |
 |--|--|
 | SC1 |Calculating the Gratuity  |
-| SC2 |Calculating the FD maturity amount |
+| SC2 |Calculating the FD  |
 | SC3 |Calculating the ROI |
 | SC4 |Calculating the EMI |
 
