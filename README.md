@@ -38,7 +38,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test C
 ## How to run:
 ```sh
 # 1. clone repo and
-change location to the source_code directory  
+# change location to the source_code directory  
   cd source_code/
 # 2. Run main.py 
   python main.py
